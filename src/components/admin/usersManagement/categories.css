@@ -1,0 +1,32 @@
+.category:hover {
+  background-color: #84dcdc;
+  cursor: pointer;
+  color: black;
+}
+
+.category option {
+  width: 80%;
+  padding: 2%;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.category {
+  color: white;
+  /* padding: 20px; */
+  background-color: #544464;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  display: flex;
+}
+.category:nth-child(2) {
+  flex-grow: 1;
+}
+.category:nth-child(1) {
+  flex-grow: 1;
+}
+.Cli {
+  background-color: brown;
+}

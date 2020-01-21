@@ -1,0 +1,47 @@
+{
+  "name": "quickresponse",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.1.0",
+    "@material-ui/icons": "^4.2.1",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "canvasjs": "^1.8.1",
+    "classnames": "2.2.6",
+    "font-awesome": "^4.7.0",
+    "history": "4.9.0",
+    "joi-browser": "^13.4.0",
+    "jwt-decode": "^2.2.0",
+    "lodash": "^4.17.11",
+    "pace": "0.0.4",
+    "pace-js": "^1.0.2",
+    "papaparse": "^5.1.0",
+    "perfect-scrollbar": "1.4.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.8.4",
+    "react-countup": "^4.2.0",
+    "react-dom": "^16.8.4",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.8",
+    "react-swipeable-views": "0.13.3",
+    "react-toastify": "^4.1.0",
+    "socket.io-client": "^2.2.0",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
